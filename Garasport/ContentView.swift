@@ -91,7 +91,7 @@ struct ContentViewGarasport: View {
                     Image("tab 1")
                         .renderingMode(.template)
                         .offset(y: 3)
-                        .foregroundColor(selectedTab == .home ? .hex("0D0550"): .white)
+                        .foregroundColor(selectedTab == .home ? .hex("0D2B02"): .white)
                 }
             }
             
@@ -118,7 +118,7 @@ struct ContentViewGarasport: View {
                     Image("tab 2")
                         .renderingMode(.template)
                         .offset(y: 3)
-                        .foregroundColor(selectedTab == .profile ? .hex("0D0550"): .white)
+                        .foregroundColor(selectedTab == .profile ? .hex("0D2B02"): .white)
                     
                 }
             }
@@ -146,7 +146,7 @@ struct ContentViewGarasport: View {
                     Image("tab 3")
                         .renderingMode(.template)
                         .offset(y: 3)
-                        .foregroundColor(selectedTab == .quotes ? .hex("0D0550"): .white)
+                        .foregroundColor(selectedTab == .quotes ? .hex("0D2B02"): .white)
                     
                 }
             }
@@ -174,13 +174,13 @@ struct ContentViewGarasport: View {
                     Image("tab 4")
                         .renderingMode(.template)
                         .offset(y: 3)
-                        .foregroundColor(selectedTab == .stretch ? .hex("0D0550"): .white)
+                        .foregroundColor(selectedTab == .stretch ? .hex("0D2B02"): .white)
                 }
             }
         }
         .padding(6)
         .padding(.horizontal, 20)
-        .background(Color.hex("0D0550"))
+        .background(Color.hex("0D2B02"))
         .cornerRadius(55)
         .padding(.bottom)
     }

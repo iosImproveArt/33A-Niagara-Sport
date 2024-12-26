@@ -11,15 +11,15 @@
 		F63CDE222D1D582200550462 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F63CDE1D2D1D582200550462 /* Assets.xcassets */; };
 		F63CDE232D1D582200550462 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE1E2D1D582200550462 /* ContentView.swift */; };
 		F63CDE242D1D582200550462 /* GarasportApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE1F2D1D582200550462 /* GarasportApp.swift */; };
-		F63CDE552D1D5D5400550462 /* OnboardingViewGS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE492D1D5D5400550462 /* OnboardingViewGS.swift */; };
-		F63CDE562D1D5D5400550462 /* QuotesViewGS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE4A2D1D5D5400550462 /* QuotesViewGS.swift */; };
-		F63CDE572D1D5D5400550462 /* TrainingViewGS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE512D1D5D5400550462 /* TrainingViewGS.swift */; };
-		F63CDE582D1D5D5400550462 /* HomeViewGS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE542D1D5D5400550462 /* HomeViewGS.swift */; };
-		F63CDE592D1D5D5400550462 /* Dopomoga.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE4B2D1D5D5400550462 /* Dopomoga.swift */; };
-		F63CDE5A2D1D5D5400550462 /* DayliStrerchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE4C2D1D5D5400550462 /* DayliStrerchView.swift */; };
-		F63CDE5B2D1D5D5400550462 /* KcalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE4D2D1D5D5400550462 /* KcalView.swift */; };
-		F63CDE5C2D1D5D5400550462 /* ProfileViewGS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE4F2D1D5D5400550462 /* ProfileViewGS.swift */; };
-		F63CDE5D2D1D5D5400550462 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE4E2D1D5D5400550462 /* ImagePicker.swift */; };
+		F63CDE552D1D5D5400550462 /* OnboardingViewGarasport.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE492D1D5D5400550462 /* OnboardingViewGarasport.swift */; };
+		F63CDE562D1D5D5400550462 /* QuotesViewGarasport.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE4A2D1D5D5400550462 /* QuotesViewGarasport.swift */; };
+		F63CDE572D1D5D5400550462 /* TrainingViewGarasport.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE512D1D5D5400550462 /* TrainingViewGarasport.swift */; };
+		F63CDE582D1D5D5400550462 /* HomeViewGarasport.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE542D1D5D5400550462 /* HomeViewGarasport.swift */; };
+		F63CDE592D1D5D5400550462 /* DopomogaGarasport.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE4B2D1D5D5400550462 /* DopomogaGarasport.swift */; };
+		F63CDE5A2D1D5D5400550462 /* DayliStrerchViewGarasport.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE4C2D1D5D5400550462 /* DayliStrerchViewGarasport.swift */; };
+		F63CDE5B2D1D5D5400550462 /* KcalViewGarasport.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE4D2D1D5D5400550462 /* KcalViewGarasport.swift */; };
+		F63CDE5C2D1D5D5400550462 /* ProfileViewGarasport.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE4F2D1D5D5400550462 /* ProfileViewGarasport.swift */; };
+		F63CDE5D2D1D5D5400550462 /* ImagePickerGarasport.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE4E2D1D5D5400550462 /* ImagePickerGarasport.swift */; };
 		F63CDE5E2D1D5D5400550462 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE472D1D5D5400550462 /* WebView.swift */; };
 		F63CDE5F2D1D5D5400550462 /* PrivacyViewGS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE462D1D5D5400550462 /* PrivacyViewGS.swift */; };
 		F63CDE602D1D5D5400550462 /* LoadingViewGS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE442D1D5D5400550462 /* LoadingViewGS.swift */; };
@@ -37,16 +37,16 @@
 		F63CDE452D1D5D5400550462 /* privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = privacy.html; sourceTree = "<group>"; };
 		F63CDE462D1D5D5400550462 /* PrivacyViewGS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrivacyViewGS.swift; sourceTree = "<group>"; };
 		F63CDE472D1D5D5400550462 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
-		F63CDE492D1D5D5400550462 /* OnboardingViewGS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewGS.swift; sourceTree = "<group>"; };
-		F63CDE4A2D1D5D5400550462 /* QuotesViewGS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesViewGS.swift; sourceTree = "<group>"; };
-		F63CDE4B2D1D5D5400550462 /* Dopomoga.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dopomoga.swift; sourceTree = "<group>"; };
-		F63CDE4C2D1D5D5400550462 /* DayliStrerchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayliStrerchView.swift; sourceTree = "<group>"; };
-		F63CDE4D2D1D5D5400550462 /* KcalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KcalView.swift; sourceTree = "<group>"; };
-		F63CDE4E2D1D5D5400550462 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
-		F63CDE4F2D1D5D5400550462 /* ProfileViewGS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewGS.swift; sourceTree = "<group>"; };
-		F63CDE512D1D5D5400550462 /* TrainingViewGS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrainingViewGS.swift; sourceTree = "<group>"; };
+		F63CDE492D1D5D5400550462 /* OnboardingViewGarasport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewGarasport.swift; sourceTree = "<group>"; };
+		F63CDE4A2D1D5D5400550462 /* QuotesViewGarasport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesViewGarasport.swift; sourceTree = "<group>"; };
+		F63CDE4B2D1D5D5400550462 /* DopomogaGarasport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DopomogaGarasport.swift; sourceTree = "<group>"; };
+		F63CDE4C2D1D5D5400550462 /* DayliStrerchViewGarasport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayliStrerchViewGarasport.swift; sourceTree = "<group>"; };
+		F63CDE4D2D1D5D5400550462 /* KcalViewGarasport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KcalViewGarasport.swift; sourceTree = "<group>"; };
+		F63CDE4E2D1D5D5400550462 /* ImagePickerGarasport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerGarasport.swift; sourceTree = "<group>"; };
+		F63CDE4F2D1D5D5400550462 /* ProfileViewGarasport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewGarasport.swift; sourceTree = "<group>"; };
+		F63CDE512D1D5D5400550462 /* TrainingViewGarasport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrainingViewGarasport.swift; sourceTree = "<group>"; };
 		F63CDE522D1D5D5400550462 /* sport.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = sport.xcassets; sourceTree = "<group>"; };
-		F63CDE542D1D5D5400550462 /* HomeViewGS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewGS.swift; sourceTree = "<group>"; };
+		F63CDE542D1D5D5400550462 /* HomeViewGarasport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewGarasport.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,22 +89,22 @@
 			children = (
 				F63CDE1F2D1D582200550462 /* GarasportApp.swift */,
 				F63CDE1E2D1D582200550462 /* ContentView.swift */,
-				F63CDE482D1D5D5400550462 /* Loading G */,
-				F63CDE492D1D5D5400550462 /* OnboardingViewGS.swift */,
-				F63CDE4A2D1D5D5400550462 /* QuotesViewGS.swift */,
-				F63CDE4B2D1D5D5400550462 /* Dopomoga.swift */,
-				F63CDE4C2D1D5D5400550462 /* DayliStrerchView.swift */,
-				F63CDE4D2D1D5D5400550462 /* KcalView.swift */,
-				F63CDE502D1D5D5400550462 /* Profile */,
-				F63CDE532D1D5D5400550462 /* Tresha */,
-				F63CDE542D1D5D5400550462 /* HomeViewGS.swift */,
+				F63CDE482D1D5D5400550462 /* LoadingGarasport */,
+				F63CDE492D1D5D5400550462 /* OnboardingViewGarasport.swift */,
+				F63CDE4A2D1D5D5400550462 /* QuotesViewGarasport.swift */,
+				F63CDE4B2D1D5D5400550462 /* DopomogaGarasport.swift */,
+				F63CDE4C2D1D5D5400550462 /* DayliStrerchViewGarasport.swift */,
+				F63CDE4D2D1D5D5400550462 /* KcalViewGarasport.swift */,
+				F63CDE502D1D5D5400550462 /* ProfileGarasport */,
+				F63CDE532D1D5D5400550462 /* TreshaGarasport */,
+				F63CDE542D1D5D5400550462 /* HomeViewGarasport.swift */,
 				F63CDE1D2D1D582200550462 /* Assets.xcassets */,
 				F63CDE1C2D1D582200550462 /* Preview Content */,
 			);
 			path = Garasport;
 			sourceTree = "<group>";
 		};
-		F63CDE482D1D5D5400550462 /* Loading G */ = {
+		F63CDE482D1D5D5400550462 /* LoadingGarasport */ = {
 			isa = PBXGroup;
 			children = (
 				F63CDE442D1D5D5400550462 /* LoadingViewGS.swift */,
@@ -112,25 +112,25 @@
 				F63CDE462D1D5D5400550462 /* PrivacyViewGS.swift */,
 				F63CDE472D1D5D5400550462 /* WebView.swift */,
 			);
-			path = "Loading G";
+			path = LoadingGarasport;
 			sourceTree = "<group>";
 		};
-		F63CDE502D1D5D5400550462 /* Profile */ = {
+		F63CDE502D1D5D5400550462 /* ProfileGarasport */ = {
 			isa = PBXGroup;
 			children = (
-				F63CDE4E2D1D5D5400550462 /* ImagePicker.swift */,
-				F63CDE4F2D1D5D5400550462 /* ProfileViewGS.swift */,
+				F63CDE4E2D1D5D5400550462 /* ImagePickerGarasport.swift */,
+				F63CDE4F2D1D5D5400550462 /* ProfileViewGarasport.swift */,
 			);
-			path = Profile;
+			path = ProfileGarasport;
 			sourceTree = "<group>";
 		};
-		F63CDE532D1D5D5400550462 /* Tresha */ = {
+		F63CDE532D1D5D5400550462 /* TreshaGarasport */ = {
 			isa = PBXGroup;
 			children = (
-				F63CDE512D1D5D5400550462 /* TrainingViewGS.swift */,
+				F63CDE512D1D5D5400550462 /* TrainingViewGarasport.swift */,
 				F63CDE522D1D5D5400550462 /* sport.xcassets */,
 			);
-			path = Tresha;
+			path = TreshaGarasport;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -210,15 +210,15 @@
 			files = (
 				F63CDE232D1D582200550462 /* ContentView.swift in Sources */,
 				F63CDE242D1D582200550462 /* GarasportApp.swift in Sources */,
-				F63CDE552D1D5D5400550462 /* OnboardingViewGS.swift in Sources */,
-				F63CDE562D1D5D5400550462 /* QuotesViewGS.swift in Sources */,
-				F63CDE572D1D5D5400550462 /* TrainingViewGS.swift in Sources */,
-				F63CDE582D1D5D5400550462 /* HomeViewGS.swift in Sources */,
-				F63CDE592D1D5D5400550462 /* Dopomoga.swift in Sources */,
-				F63CDE5A2D1D5D5400550462 /* DayliStrerchView.swift in Sources */,
-				F63CDE5B2D1D5D5400550462 /* KcalView.swift in Sources */,
-				F63CDE5C2D1D5D5400550462 /* ProfileViewGS.swift in Sources */,
-				F63CDE5D2D1D5D5400550462 /* ImagePicker.swift in Sources */,
+				F63CDE552D1D5D5400550462 /* OnboardingViewGarasport.swift in Sources */,
+				F63CDE562D1D5D5400550462 /* QuotesViewGarasport.swift in Sources */,
+				F63CDE572D1D5D5400550462 /* TrainingViewGarasport.swift in Sources */,
+				F63CDE582D1D5D5400550462 /* HomeViewGarasport.swift in Sources */,
+				F63CDE592D1D5D5400550462 /* DopomogaGarasport.swift in Sources */,
+				F63CDE5A2D1D5D5400550462 /* DayliStrerchViewGarasport.swift in Sources */,
+				F63CDE5B2D1D5D5400550462 /* KcalViewGarasport.swift in Sources */,
+				F63CDE5C2D1D5D5400550462 /* ProfileViewGarasport.swift in Sources */,
+				F63CDE5D2D1D5D5400550462 /* ImagePickerGarasport.swift in Sources */,
 				F63CDE5E2D1D5D5400550462 /* WebView.swift in Sources */,
 				F63CDE5F2D1D5D5400550462 /* PrivacyViewGS.swift in Sources */,
 				F63CDE602D1D5D5400550462 /* LoadingViewGS.swift in Sources */,
@@ -358,6 +358,7 @@
 				DEVELOPMENT_TEAM = FWVBV65566;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Gara Sport";
 				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to the camera to set your profile picture.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -393,6 +394,7 @@
 				DEVELOPMENT_TEAM = FWVBV65566;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Gara Sport";
 				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to the camera to set your profile picture.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
