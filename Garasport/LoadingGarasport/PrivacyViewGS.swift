@@ -108,5 +108,5 @@ struct PrivacyViewGarasport: View {
 }
 
 #Preview {
-    PrivacyViewGarasport(showLoading: .constant(true), fromMainView: true)
+    PrivacyViewGarasport(showLoading: .constant(true), fromMainView: false)
 }
