@@ -11,6 +11,20 @@
 		F63CDE222D1D582200550462 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F63CDE1D2D1D582200550462 /* Assets.xcassets */; };
 		F63CDE232D1D582200550462 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE1E2D1D582200550462 /* ContentView.swift */; };
 		F63CDE242D1D582200550462 /* GarasportApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE1F2D1D582200550462 /* GarasportApp.swift */; };
+		F63CDE552D1D5D5400550462 /* OnboardingViewGS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE492D1D5D5400550462 /* OnboardingViewGS.swift */; };
+		F63CDE562D1D5D5400550462 /* QuotesViewGS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE4A2D1D5D5400550462 /* QuotesViewGS.swift */; };
+		F63CDE572D1D5D5400550462 /* TrainingViewGS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE512D1D5D5400550462 /* TrainingViewGS.swift */; };
+		F63CDE582D1D5D5400550462 /* HomeViewGS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE542D1D5D5400550462 /* HomeViewGS.swift */; };
+		F63CDE592D1D5D5400550462 /* Dopomoga.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE4B2D1D5D5400550462 /* Dopomoga.swift */; };
+		F63CDE5A2D1D5D5400550462 /* DayliStrerchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE4C2D1D5D5400550462 /* DayliStrerchView.swift */; };
+		F63CDE5B2D1D5D5400550462 /* KcalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE4D2D1D5D5400550462 /* KcalView.swift */; };
+		F63CDE5C2D1D5D5400550462 /* ProfileViewGS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE4F2D1D5D5400550462 /* ProfileViewGS.swift */; };
+		F63CDE5D2D1D5D5400550462 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE4E2D1D5D5400550462 /* ImagePicker.swift */; };
+		F63CDE5E2D1D5D5400550462 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE472D1D5D5400550462 /* WebView.swift */; };
+		F63CDE5F2D1D5D5400550462 /* PrivacyViewGS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE462D1D5D5400550462 /* PrivacyViewGS.swift */; };
+		F63CDE602D1D5D5400550462 /* LoadingViewGS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63CDE442D1D5D5400550462 /* LoadingViewGS.swift */; };
+		F63CDE612D1D5D5400550462 /* sport.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F63CDE522D1D5D5400550462 /* sport.xcassets */; };
+		F63CDE622D1D5D5400550462 /* privacy.html in Resources */ = {isa = PBXBuildFile; fileRef = F63CDE452D1D5D5400550462 /* privacy.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +33,20 @@
 		F63CDE1D2D1D582200550462 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F63CDE1E2D1D582200550462 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F63CDE1F2D1D582200550462 /* GarasportApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GarasportApp.swift; sourceTree = "<group>"; };
+		F63CDE442D1D5D5400550462 /* LoadingViewGS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingViewGS.swift; sourceTree = "<group>"; };
+		F63CDE452D1D5D5400550462 /* privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = privacy.html; sourceTree = "<group>"; };
+		F63CDE462D1D5D5400550462 /* PrivacyViewGS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrivacyViewGS.swift; sourceTree = "<group>"; };
+		F63CDE472D1D5D5400550462 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
+		F63CDE492D1D5D5400550462 /* OnboardingViewGS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewGS.swift; sourceTree = "<group>"; };
+		F63CDE4A2D1D5D5400550462 /* QuotesViewGS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesViewGS.swift; sourceTree = "<group>"; };
+		F63CDE4B2D1D5D5400550462 /* Dopomoga.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dopomoga.swift; sourceTree = "<group>"; };
+		F63CDE4C2D1D5D5400550462 /* DayliStrerchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayliStrerchView.swift; sourceTree = "<group>"; };
+		F63CDE4D2D1D5D5400550462 /* KcalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KcalView.swift; sourceTree = "<group>"; };
+		F63CDE4E2D1D5D5400550462 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		F63CDE4F2D1D5D5400550462 /* ProfileViewGS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewGS.swift; sourceTree = "<group>"; };
+		F63CDE512D1D5D5400550462 /* TrainingViewGS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrainingViewGS.swift; sourceTree = "<group>"; };
+		F63CDE522D1D5D5400550462 /* sport.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = sport.xcassets; sourceTree = "<group>"; };
+		F63CDE542D1D5D5400550462 /* HomeViewGS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewGS.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,10 +89,48 @@
 			children = (
 				F63CDE1F2D1D582200550462 /* GarasportApp.swift */,
 				F63CDE1E2D1D582200550462 /* ContentView.swift */,
+				F63CDE482D1D5D5400550462 /* Loading G */,
+				F63CDE492D1D5D5400550462 /* OnboardingViewGS.swift */,
+				F63CDE4A2D1D5D5400550462 /* QuotesViewGS.swift */,
+				F63CDE4B2D1D5D5400550462 /* Dopomoga.swift */,
+				F63CDE4C2D1D5D5400550462 /* DayliStrerchView.swift */,
+				F63CDE4D2D1D5D5400550462 /* KcalView.swift */,
+				F63CDE502D1D5D5400550462 /* Profile */,
+				F63CDE532D1D5D5400550462 /* Tresha */,
+				F63CDE542D1D5D5400550462 /* HomeViewGS.swift */,
 				F63CDE1D2D1D582200550462 /* Assets.xcassets */,
 				F63CDE1C2D1D582200550462 /* Preview Content */,
 			);
 			path = Garasport;
+			sourceTree = "<group>";
+		};
+		F63CDE482D1D5D5400550462 /* Loading G */ = {
+			isa = PBXGroup;
+			children = (
+				F63CDE442D1D5D5400550462 /* LoadingViewGS.swift */,
+				F63CDE452D1D5D5400550462 /* privacy.html */,
+				F63CDE462D1D5D5400550462 /* PrivacyViewGS.swift */,
+				F63CDE472D1D5D5400550462 /* WebView.swift */,
+			);
+			path = "Loading G";
+			sourceTree = "<group>";
+		};
+		F63CDE502D1D5D5400550462 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				F63CDE4E2D1D5D5400550462 /* ImagePicker.swift */,
+				F63CDE4F2D1D5D5400550462 /* ProfileViewGS.swift */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		F63CDE532D1D5D5400550462 /* Tresha */ = {
+			isa = PBXGroup;
+			children = (
+				F63CDE512D1D5D5400550462 /* TrainingViewGS.swift */,
+				F63CDE522D1D5D5400550462 /* sport.xcassets */,
+			);
+			path = Tresha;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -129,6 +195,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				F63CDE212D1D582200550462 /* Preview Assets.xcassets in Resources */,
+				F63CDE612D1D5D5400550462 /* sport.xcassets in Resources */,
+				F63CDE622D1D5D5400550462 /* privacy.html in Resources */,
 				F63CDE222D1D582200550462 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -142,6 +210,18 @@
 			files = (
 				F63CDE232D1D582200550462 /* ContentView.swift in Sources */,
 				F63CDE242D1D582200550462 /* GarasportApp.swift in Sources */,
+				F63CDE552D1D5D5400550462 /* OnboardingViewGS.swift in Sources */,
+				F63CDE562D1D5D5400550462 /* QuotesViewGS.swift in Sources */,
+				F63CDE572D1D5D5400550462 /* TrainingViewGS.swift in Sources */,
+				F63CDE582D1D5D5400550462 /* HomeViewGS.swift in Sources */,
+				F63CDE592D1D5D5400550462 /* Dopomoga.swift in Sources */,
+				F63CDE5A2D1D5D5400550462 /* DayliStrerchView.swift in Sources */,
+				F63CDE5B2D1D5D5400550462 /* KcalView.swift in Sources */,
+				F63CDE5C2D1D5D5400550462 /* ProfileViewGS.swift in Sources */,
+				F63CDE5D2D1D5D5400550462 /* ImagePicker.swift in Sources */,
+				F63CDE5E2D1D5D5400550462 /* WebView.swift in Sources */,
+				F63CDE5F2D1D5D5400550462 /* PrivacyViewGS.swift in Sources */,
+				F63CDE602D1D5D5400550462 /* LoadingViewGS.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,21 +358,27 @@
 				DEVELOPMENT_TEAM = FWVBV65566;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to the camera to set your profile picture.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = testleschenko.Garasport;
+				PRODUCT_BUNDLE_IDENTIFIER = testleschenko;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -307,21 +393,27 @@
 				DEVELOPMENT_TEAM = FWVBV65566;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to the camera to set your profile picture.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = testleschenko.Garasport;
+				PRODUCT_BUNDLE_IDENTIFIER = testleschenko;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

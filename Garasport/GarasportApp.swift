@@ -1,17 +1,34 @@
-//
-//  GarasportApp.swift
-//  Garasport
-//
-//  Created by Improve on 26.12.2024.
-//
 
 import SwiftUI
 
 @main
-struct GarasportApp: App {
+struct Prize_Sport_LifeApp: App {
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var delegate
+    
+      var wgrvergv = "sfvg efg"
+    var rwv3rgv = 355
+    func wrver() -> Double {
+        return 2524524
+    }
+    func wfrvcwrfv() {
+        print("wverwvgfr")
+    }
+    var wrfcrw = [242424:"wrfcwrfc"]
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentViewGarasport()
+                .preferredColorScheme(.dark)
         }
+    }
+}
+
+
+class AppDelegate: UIResponder, UIApplicationDelegate {
+
+    static var orientationLock = UIInterfaceOrientationMask.all
+
+    func application(_ application: UIApplication, supportedInterfaceOrientationsFor window: UIWindow?) -> UIInterfaceOrientationMask {
+        return AppDelegate.orientationLock
     }
 }
