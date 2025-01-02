@@ -19,6 +19,7 @@ struct DayliStrerchView: View {
         print("wverwvgfr")
     }
     var wrfcrw = [242424:"wrfcwrfc"]
+    var hrunfcr = 3434
     
     var body: some View {
         VStack {
